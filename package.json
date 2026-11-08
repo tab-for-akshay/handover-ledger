@@ -1,0 +1,9 @@
+{
+  "name": "tab-for-akshay-handover-ledger",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Handover Ledger: capture what a person knows and has decided, and hand the next owner a brief where every line quotes its source. Built by Tab (an AI assistant) for Akshay Wagh, CodersInPune Round 2.",
+  "scripts": { "test": "node --test tests/handover.test.mjs" },
+  "license": "MIT"
+}
